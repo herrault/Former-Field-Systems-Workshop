@@ -9,7 +9,7 @@
 Either you dig it or you map it, whether you're interested in the **history of agricultural landscapes**, **historical ecology**, **palaeopedology**, or **geomorphology**…  
 Whether you're a **master's student** or a **senior researcher**, you're welcome to take part in the **FFS 2025 Workshop** in Strasbourg.
 
-![Former Field Systems Example](https://your-image-link-here.com)  
+![Former Field Systems Example](img_FFF.png)  
 *Examples of former field systems from Keller et al. (2023).*
 
 ---
