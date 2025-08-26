@@ -68,7 +68,9 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | 16:50 | Antonin NUSSLEIN & Murielle GEORGES-LEROY | *Fossilised Agricultural Landscapes (Meuse–Rhine)* |
 | 17:10 | Juraj LISKOVSKY            | *Traditional Agricultural Landscapes in Slovakia* |
 | 17:30 | Václav FANTA (TBC)         | *Historical Field Systems: Culture & Environment Interaction (Czech Rep.)* |
-| 18:30 | 🧊 Icebreaker              | Free time in town |
+| 18:30 | 🧊 Icebreaker              | In the faculty |
+| 19:30 | Evening             | Free time to visit the town |
+
 
 ---
 
@@ -127,7 +129,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## Mapathon
 
-*Details on methodology, tools used, and results will be added after the event.*
+*Coming soon.*
 
 ---
 
