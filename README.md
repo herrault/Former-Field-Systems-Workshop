@@ -47,7 +47,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 📍 *Faculté de Géographie et d’Aménagement*,  
 3 rue de l’Argonne, 67000 Strasbourg  
-**Tram stop:** Observatoire (Lines C, E, F – direct from train station)
+**Tram stop:** Observatoire (Lines C, E, F – C is direct from train station)
 
 - **12:15** Lunch – Restaurant l’Observatoire (1 Rue Kirstein)
 - **13:30** Welcome coffee (Room 011, Ground floor)
