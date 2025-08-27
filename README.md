@@ -67,7 +67,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | 16:30 | Anna SCHNEIDER             | *Former Field Systems in Upper Palatinate Forests* |
 | 16:50 | Antonin NUSSLEIN & Murielle GEORGES-LEROY | *Fossilised Agricultural Landscapes (Meuse–Rhine)* |
 | 17:10 | Juraj LISKOVSKY            | *Traditional Agricultural Landscapes in Slovakia* |
-| 17:30 | Václav FANTA (TBC)         | *Historical Field Systems: Culture & Environment Interaction (Czech Rep.)* |
+| 17:30 | Václav FANTA      | *Historical field systems in the Czech Republic: mapping, values and protection* |
 | 18:30 | 🧊 Icebreaker              | In the faculty |
 | 19:30 | Evening             | Free time to visit the town |
 
