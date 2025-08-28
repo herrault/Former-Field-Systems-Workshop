@@ -96,7 +96,9 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
   - Definition of:  
     - Research questions  
     - Study area  
-    - Strategy  
+    - Strategy
+  - **12:00 – 13:30** Lunch
+  - **13:30 – 15:30** Final discussion (optional)
 
 ---
 
