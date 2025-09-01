@@ -66,7 +66,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | 16:10 | ☕ Coffee Break             | |
 | 16:30 | Anna SCHNEIDER             | *Former Field Systems in Upper Palatinate Forests* |
 | 16:50 | Antonin NUSSLEIN & Murielle GEORGES-LEROY | *Fossilised Agricultural Landscapes (Meuse–Rhine)* |
-| 17:10 | Juraj LISKOVSKY            | *Traditional Agricultural Landscapes in Slovakia* |
+| 17:10 | Juraj LIESKOVSKY          | *Traditional Agricultural Landscapes in Slovakia* |
 | 17:30 | Václav FANTA      | *Historical field systems in the Czech Republic: mapping, values and protection* |
 | 18:30 | 🧊 Icebreaker              | In the faculty |
 | 19:30 | Evening             | Free time to visit the town |
@@ -115,7 +115,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | **Dr. Benjamin KELLER** | Université de Strasbourg / CNRS | [benjamin.keller@live-cnrs.unistra.fr](mailto:benjamin.keller@live-cnrs.unistra.fr) |
 | **Eileen KERHOUANT** | Durham University, UK | [ekerhouant@gmail.com](mailto:ekerhouant@gmail.com) |
 | **Dr. Nathanael LE VOGUER** | UMR 7324 CITERES-LAT, France | [nathanael.levoguer@univ-tours.fr](mailto:nathanael.levoguer@univ-tours.fr) |
-| **Dr. Juraj LISKOVSKY** | Slovak Academy of Sciences | [juraj.lieskovsky@savba.sk](mailto:juraj.lieskovsky@savba.sk) |
+| **Dr. Juraj LIESKOVSKY** | Slovak Academy of Sciences | [juraj.lieskovsky@savba.sk](mailto:juraj.lieskovsky@savba.sk) |
 | **Dr. Antonin NUSSLEIN** | CNRS, Strasbourg | [nusslein@unistra.fr](mailto:nusslein@unistra.fr) |
 | **Dr. Anna SCHNEIDER** | BTU Cottbus-Senftenberg, Germany | [anna.schneider@b-tu.de](mailto:anna.schneider@b-tu.de) |
 | **Dr. Barbora STROUHALOVA** | Charles University, Prague | [barbora.strouhalova@natur.cuni.cz](mailto:barbora.strouhalova@natur.cuni.cz) |
