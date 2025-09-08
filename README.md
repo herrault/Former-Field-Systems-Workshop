@@ -71,19 +71,6 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | 18:30 | 🧊 Icebreaker              | In the faculty |
 | 19:30 | Evening             | Free time to visit the town |
 
-#### Glossary
-
-|Picture| Presenter                  | Title |
-|-------|----------------------------|-------|
-|  
-Photo: D. Ertlen
-| Alexander BONHAGE          | *Historic Raised Beds in NW Ireland: Remote Sensing and Soil Properties* |
-| 14:30 | Barbora STROUHALOVA        | *Forgotten Forest Activities in Sumava NP, Czech Republic* |
-| 14:50 | Nathanael LE VOGUER        | *2000 Years of the Beauce Landscape through Headland Field Boundaries* |
-| 15:10 | Eileen KERHOUANT           | *Inherited Landscapes: Roman Presence in Homs Basalt Region* |
-| 15:30 | Emma BORG                  | *Ackerberg in the Rhine Graben, France* |
-| 15:50 | Benjamin KELLER            | *Mapping & Digging Ridge and Furrows in Alsace* |
-
 
 ---
 
@@ -136,9 +123,17 @@ Photo: D. Ertlen
 
 ---
 
-## FFS in Your Own Language / Multilingual Glossary
+## FFS in your own language / Multilingual glossary
 
-*Coming soon.*
+| International glossary | English   | Deutsch    | Český      | Slovák     | Slovenščina | Français   | …   |
+|-----------------------|-----------|------------|------------|------------|-------------|------------|-----|
+| Keller               |     |      |       |       |      | Murger    | …   |
+|             | Goodbye   | Auf Wiedersehen | Sbohem      | Dovidenia   | Nasvidenje  | Au revoir | …   |
+|              | Please    | Bitte      | Prosím      | Prosím      | Prosim      | S'il vous plaît | …   |
+|             | Thank you | Danke      | Děkuji      | Ďakujem     | Hvala       | Merci      | …   |
+|                  | Yes       | Ja         | Ano         | Áno         | Da          | Oui        | …   |
+|                   | No        | Nein       | Ne          | Nie         | Ne          | Non        | …   |
+|            | Excuse me | Entschuldigung | Promiňte    | Prepáčte    | Oprostite   | Excusez-moi | …   |
 
 ---
 
