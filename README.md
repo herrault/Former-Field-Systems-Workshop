@@ -125,16 +125,12 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## FFS in your own language / Multilingual glossary
 
-| International glossary | English | Deutsch | Český | Slovák | Slovenščina | Français | … |
-|-----------------------|---------|---------|-------|--------|-------------|----------|---|
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
-|                       |         |         |       |        |             |          |   |
----
+| International glossary | English | Deutsch | Český | Slovák | Slovenščina | Français |
+|-----------------------|---------|---------|-------|--------|-------------|----------|
+| [![Field system](images/example rideau Vollmunster.png)](images/field_system.png) | Field system | Feldsystem | Polní systém | Poľný systém | Poljski sistem | Système agraire |
+| [![Ridge and furrow](images/ridge_and_furrow.png)](images/ridge_and_furrow.png) | Ridge and furrow | Wölbäcker | Hrůbkování | Úvozové pole | Greben in brazda | Ados et sillons |
+| [![Headland](images/headland.png)](images/headland.png) | Headland | Vorgewende | Obraceč | Hlavica | Oglavje | Fourrière |
+| ... | ... | ... | ... | ... | ... | ... |
 
 ## Mapathon
 
