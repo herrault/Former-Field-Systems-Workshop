@@ -125,16 +125,15 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## FFS in your own language / Multilingual glossary
 
-| International glossary | English   | Deutsch    | Český      | Slovák     | Slovenščina | Français   | …   |
-|-----------------------|-----------|------------|------------|------------|-------------|------------|-----|
-| Keller               |     |      |       |       |      | Murger    |    |
-|             |   |  |      |    |  |  |    |
-|              |    |      |      |      |      |  |   |
-|             |  |      |     |     |       |      |  |
-|                  |      |         |         |         |          |         |  |
-|                   |         |      |          |         |         |       |   |
-|            |  |  |    |     |    |  |   |
-
+| International glossary | English | Deutsch | Český | Slovák | Slovenščina | Français | … |
+|-----------------------|---------|---------|-------|--------|-------------|----------|---|
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
+|                       |         |         |       |        |             |          |   |
 ---
 
 ## Mapathon
