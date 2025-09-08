@@ -127,13 +127,13 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 | International glossary | English   | Deutsch    | Český      | Slovák     | Slovenščina | Français   | …   |
 |-----------------------|-----------|------------|------------|------------|-------------|------------|-----|
-| Keller               |     |      |       |       |      | Murger    | …   |
-|             | Goodbye   | Auf Wiedersehen | Sbohem      | Dovidenia   | Nasvidenje  | Au revoir | …   |
-|              | Please    | Bitte      | Prosím      | Prosím      | Prosim      | S'il vous plaît | …   |
-|             | Thank you | Danke      | Děkuji      | Ďakujem     | Hvala       | Merci      | …   |
-|                  | Yes       | Ja         | Ano         | Áno         | Da          | Oui        | …   |
-|                   | No        | Nein       | Ne          | Nie         | Ne          | Non        | …   |
-|            | Excuse me | Entschuldigung | Promiňte    | Prepáčte    | Oprostite   | Excusez-moi | …   |
+| Keller               |     |      |       |       |      | Murger    |    |
+|             |   |  |      |    |  |  |    |
+|              |    |      |      |      |      |  |   |
+|             |  |      |     |     |       |      |  |
+|                  |      |         |         |         |          |         |  |
+|                   |         |      |          |         |         |       |   |
+|            |  |  |    |     |    |  |   |
 
 ---
 
