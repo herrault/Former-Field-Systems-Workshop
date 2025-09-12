@@ -27,7 +27,8 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 - Eileen Eckmeier, Kiel University  
 - Barbora Strouhalova, Charles University Prague  
 - Damien Ertlen, Strasbourg University  
-- Benjamin Keller, Strasbourg University  
+- Benjamin Keller, Strasbourg University
+- Emma Borg, Strasbourg University  
 
 ---
 
@@ -137,7 +138,28 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 *Coming soon.*
 
 ---
+## Database (Thursday afternoon)
 
+Spatial Synthesis compiled by E. BORG (master student in Strasbourg)
+
+This work aims to create a synthesis map of all Central European studies dealing with former field systems (FFS), (Fig1). The study area covers all Central Europe spanning latitudes 45°N to 55°N and is defined by a temperate climate region spanning where oceanic and continental influences meet.  The oceanic climate features mild, wet winters and cooler summers, while the continental climate has greater seasonal temperature swings. It includes Germany, Poland, the Czech Republic, Austria, Hungary, Slovakia, Transylvania and part of northern France which stretches from the Paris Basin to the Beauce region. Moreover, it follows the plow’s spread which began in Central Europe and reached Alsace and Lorraine (Haudricourt and Delamarre 1988). 
+
+
+Insérer carte
+
+Most of the sites are linked to published data while others  were digitalized using the Digital Elevation Model of each country (Fig.1). This led to two shapefiles : one for local sites referenced by authors (punctual  data) and another covering large areas already mapped by authors (polygons) and added through georeferencing. This mostly involved Brown and Pears’ article (2025) conducted across  Europe as well as studies by Czech researchers (Elznicova et al, 2019 et Zacharová et al, 2022). 
+
+## Explaining the distribution of FFFS at European scale (Friday morning)
+  - Project of publication 
+- **09:00 – 10:00** Small Group (4) Discussion:  
+- Definition of:  
+    - Research questions  
+    - Study area  
+    - Strategy
+ - **10:00 – 10:30** Group presentation
+ - **10:30 – 11:00** Synthesis --> general architecture of the publication project
+ - **11:00 – 12:00** Synthesis of the workshop : conclusion, perpectives, feedback
+---
 ## Bibliography
 
 Link to the shared bibliography : https://www.zotero.org/groups/6165746/ffs_in_central_europe/library
