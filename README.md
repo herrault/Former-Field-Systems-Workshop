@@ -37,8 +37,10 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 1. [Detailed Program](#detailed-program)  
 2. [List of Participants](#list-of-participants)  
 3. [FFS in Your Own Language / Multilingual Glossary](#ffs-in-your-own-language--multilingual-glossary)  
-4. [Mapathon](#mapathon)  
-5. [Bibliography](#bibliography)  
+4. [Mapathon](#mapathon)
+5. [Database](#database)
+6. [Modelling](#modelling)
+7. [Bibliography](#bibliography)  
 
 ---
 
@@ -138,7 +140,8 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 *Coming soon.*
 
 ---
-## Database (Thursday afternoon)
+## Database
+(Thursday afternoon)
 
 Spatial Synthesis compiled by E. BORG (master student in Strasbourg)
 
@@ -149,7 +152,9 @@ Insérer carte
 
 Most of the sites are linked to published data while others  were digitalized using the Digital Elevation Model of each country (Fig.1). This led to two shapefiles : one for local sites referenced by authors (punctual  data) and another covering large areas already mapped by authors (polygons) and added through georeferencing. This mostly involved Brown and Pears’ article (2025) conducted across  Europe as well as studies by Czech researchers (Elznicova et al, 2019 et Zacharová et al, 2022). 
 
-## Explaining the distribution of FFFS at European scale (Friday morning)
+## Modelling
+(Friday morning)
+Explaining the distribution of FFFS at European scale 
   - Project of publication 
 - **09:00 – 10:00** Small Group (4) Discussion:  
 - Definition of:  
