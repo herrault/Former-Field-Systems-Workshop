@@ -140,6 +140,8 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## Bibliography
 
+Link to the shared bibliography : FFS in Central Europe | Zotero
+
 -	Affek, A., 2016. Past Carpathian landscape recorded in the microtopography. Geographia Polonica 89. https://doi.org/10.7163/GPol.0062
 -	Affek, A., 2015. Exploring past Carpathian landscape: the application of LiDAR and archival cadastral maps. Archaeologia Polona 53, 243–247.
 -	Affek, A.N., Wolski, J., Latocha, A., Zachwatowicz, M., Wieczorek, M., 2022. The use of LiDAR in reconstructing the pre-World War II landscapes of abandoned mountain villages in southern Poland. Archaeological Prospection 29, 157–173. https://doi.org/10.1002/arp.1846
