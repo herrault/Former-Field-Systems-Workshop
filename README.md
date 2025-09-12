@@ -140,7 +140,9 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## Bibliography
 
-Link to the shared bibliography : FFS in Central Europe | Zotero
+Link to the shared bibliography : https://www.zotero.org/groups/6165746/ffs_in_central_europe/library
+Feel free to upload more articles on FFS on this shared bibliography
+If you don't have a Zotero account you can check the bibliography below and suggest new references by email at damien@unistra.fr
 
 -	Affek, A., 2016. Past Carpathian landscape recorded in the microtopography. Geographia Polonica 89. https://doi.org/10.7163/GPol.0062
 -	Affek, A., 2015. Exploring past Carpathian landscape: the application of LiDAR and archival cadastral maps. Archaeologia Polona 53, 243–247.
