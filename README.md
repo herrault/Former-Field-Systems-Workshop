@@ -80,9 +80,11 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 ### 🗓 Thursday, 25 September
 
 - **08:45** ☕ Coffee  
-- **09:00 – 09:45** Mapathon Instructions (with master students)  
-- **10:00 – 13:00** 🗺 **MAPATHON**  
-- **13:00 – 14:30** 🥪 Lunch (picnic at the faculty)  
+- **09:00 – 09:30** Mapathon Instructions (with master students)  room 116
+- **9:30 – 12:00** 🗺 **MAPATHON**  classrooms 107 and 109
+- **12:00 – 12:30** Merging data and extracting basic indicators (number of polygons, total surface of polygons, …)
+- **12:30 – 13:00** 🏆 Comparison of results and election of winners !
+- **13:00 – 14:00** 🥪 Lunch (picnic at the faculty)  
 - **14:30 – 15:30** Mapathon Discussion: methodology, insights, next steps  
 - **15:30** Presentation of existing Alsace database – *Keller, Borg, Ertlen*  
 - **16:00 – 17:00** Group Discussion: Building a Common Database – Is it needed?
