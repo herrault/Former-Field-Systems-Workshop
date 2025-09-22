@@ -65,8 +65,9 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 | 14:50 | Nathanael LE VOGUER        | *2000 Years of the Beauce Landscape through Headland Field Boundaries* |
 | 15:10 | Eileen KERHOUANT           | *Inherited Landscapes: Roman Presence in Homs Basalt Region* |
 | 15:30 | Emma BORG                  | *Ackerberg in the Rhine Graben, France* |
-| 15:50 | Benjamin KELLER            | *Mapping & Digging Ridge and Furrows in Alsace* |
-| 16:10 | ☕ Coffee Break             | |
+| 15:45 | Benjamin KELLER            | *Mapping & Digging Ridge and Furrows in Alsace* |
+| 16:00 | Eileen ECKMEIER         | Archaeological features without archaeological finds as archives of former land use practices |
+| 16:15 | ☕ Coffee Break             | |
 | 16:30 | Anna SCHNEIDER             | *Former Field Systems in Upper Palatinate Forests* |
 | 16:50 | Antonin NUSSLEIN & Murielle GEORGES-LEROY | *Fossilised Agricultural Landscapes (Meuse–Rhine)* |
 | 17:10 | Juraj LIESKOVSKÝ         | *Traditional Agricultural Landscapes in Slovakia* |
