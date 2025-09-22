@@ -97,14 +97,15 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 ### 🗓 Friday, 26 September
 
 - **08:45** ☕ Coffee  
-- **09:00 – 12:00** Group Discussion:  
+- **09:00 – 11:00** Group Discussion:  
   - Project of a review publication (Central Europe)
   - Definition of:  
     - Research questions  
     - Study area  
     - Strategy
+  - **11:00 – 12:00** Final discussion 
   - **12:00 – 13:30** Lunch
-  - **13:30 – 15:30** Final discussion (optional)
+
 
 ---
 
