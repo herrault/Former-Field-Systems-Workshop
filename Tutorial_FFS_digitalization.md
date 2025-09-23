@@ -7,6 +7,8 @@ The objective is to build a consistent and usable database from four study areas
 
 ## 1. Material
 
+to download here: https://seafile.unistra.fr/d/5156e196c7884fd4820b/
+
 - ** LiDAR DEM** (one for each group).
 - **Empty geopackage** :
   - `lines_create.gpkg` → for headlands (ackerberg, G1 only).
