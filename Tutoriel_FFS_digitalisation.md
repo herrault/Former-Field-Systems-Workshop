@@ -69,7 +69,7 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 | Champ        | Type     | Description |
 |--------------|----------|-------------|
 | `id_maille`  | Texte / Entier | Identifiant de la maille (repris du maillage 1000×1000 m). |
-| `type_forme` | Texte    | **ackerberg** / **rideau** / **champ**/ **murger** |
+| `type_forme` | Texte    | **ackerberg=1** / **rideau=2** / **champs bombés =3**/ **murger=4** |
 | `commentaire`| Texte libre | (optionnel) Observations particulières, incertitudes. |
 
 💡 **Astuce** : utiliser l’outil de capture dans QGIS pour remplir automatiquement `id_maille` en cliquant sur la maille correspondante.
