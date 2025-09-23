@@ -20,7 +20,7 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 
 ## 2. Organisation du mapathon
 
-1. Chaque participant choisit une maille (500 × 500 m).
+1. Chaque binome choisit une maille (1000 m × 1000 m) de son groupe.
 2. Le participant ouvre :
    - le MNT correspondant,
    - le maillage,
