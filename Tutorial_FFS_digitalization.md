@@ -31,6 +31,8 @@ The pair open:
 
 ## 3. FFS classification
 
+see also the powerpoint for illustrations
+
 ### Headlands / Ackerberg (lines)
 - **Nature** : linear structures visible in the DEM.  
 - **Layer** : `lines_create.gpkg`.  
