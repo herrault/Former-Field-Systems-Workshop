@@ -71,7 +71,6 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 - Toujours activer **l’accrochage** (snapping) pour assurer des limites précises.  
 - Sauvegarder régulièrement ses modifications (icône disquette).  
 - Vérifier après chaque session que les champs attributaires sont correctement remplis.  
-- Ne pas modifier les objets créés par un autre participant sans concertation.
 
 ---
 
