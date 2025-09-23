@@ -20,8 +20,8 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 
 ## 2. Organisation du mapathon
 
-1. Chaque binome choisit une maille (1000 m × 1000 m) de son groupe.
-2. Le participant ouvre :
+1. Chaque binome choisit une maille (1000 m × 1000 m) de son groupe. Commencer en haut à gauche. Chaque binome se réserve 2 lignes. Le binome 1 commence à la ligne 1, le binome 2 à la ligne 3, le binome 3 à la ligne 5 etc
+2. Le binome ouvre :
    - le MNT correspondant,
    - le maillage,
    - le GeoPackage (`lines_create.gpkg` ou `polygons_create.gpkg`) en édition.
@@ -48,7 +48,15 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 - **Nature** : relief bombé d’une parcelle.  
 - **Couche** : `polygons_create.gpkg`.  
 - **Géométrie** : polygone (`Polygon`).  
-- **Un objet = une parcelle bombée**.
+- **Un objet = un ensemble de parcelles bombés parallèles**.
+
+### Murger (polygones)
+- **Nature** : relief bombé d’une parcelle.  
+- **Couche** : `polygons_create.gpkg`.  
+- **Géométrie** : polygone (`Polygon`).  
+- **Un objet = un parcellaire de murgers **.
+
+
 
 ---
 
@@ -58,7 +66,7 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 
 | Champ        | Type     | Description |
 |--------------|----------|-------------|
-| `id_maille`  | Texte / Entier | Identifiant de la maille (repris du maillage 500×500 m). |
+| `id_maille`  | Texte / Entier | Identifiant de la maille (repris du maillage 1000×1000 m). |
 | `type_forme` | Texte    | **ackerberg** / **rideau** / **champ** |
 | `commentaire`| Texte libre | (optionnel) Observations particulières, incertitudes. |
 
