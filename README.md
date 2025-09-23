@@ -141,8 +141,7 @@ Whether you're a **master's student** or a **senior researcher**, you're welcome
 
 ## Mapathon
 
-*Coming soon.*
-
+See the tutorial in french or english on a separate file (tutorial_FFF_digitalization.md)
 ---
 ## Database
 (Thursday afternoon)
