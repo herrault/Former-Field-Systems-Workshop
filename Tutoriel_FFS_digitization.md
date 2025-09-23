@@ -67,7 +67,7 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 | Champ        | Type     | Description |
 |--------------|----------|-------------|
 | `id_maille`  | Texte / Entier | Identifiant de la maille (repris du maillage 1000×1000 m). |
-| `type_forme` | Texte    | **ackerberg** / **rideau** / **champ** |
+| `type_forme` | Texte    | **ackerberg** / **rideau** / **champ**/ **murger** |
 | `commentaire`| Texte libre | (optionnel) Observations particulières, incertitudes. |
 
 💡 **Astuce** : utiliser l’outil de capture dans QGIS pour remplir automatiquement `id_maille` en cliquant sur la maille correspondante.
@@ -78,7 +78,8 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 
 - Toujours activer **l’accrochage** (snapping) pour assurer des limites précises.  
 - Sauvegarder régulièrement ses modifications (icône disquette).  
-- Vérifier après chaque session que les champs attributaires sont correctement remplis.  
+- Vérifier après chaque session que les champs attributaires sont correctement remplis.
+- Ne pas déborder de la maille. Pour un objet à cheval on suit la limite de la maille (polygones) et on laisse le bout de l'objet pour le binome responsable de l'autre maille
 
 ---
 
@@ -118,10 +119,11 @@ Avant de soumettre votre travail :
 ## 8. Dépôt collaboratif
 
 - Une fois la session terminée, exportez vos couches mises à jour.  
-- Partagez-les selon l’organisation définie (dépôt GitHub, cloud partagé, etc.).  
-- Utilisez un nom clair pour vos fichiers (exemple : `lines_VotreNom.gpkg`, `polygons_VotreNom.gpkg`).
+- Partagez-les selon l’organisation définie (voir avec le coordinateur de votre groupe).  
+- Utilisez un nom clair pour vos fichiers (exemple : `lines_Name_Groupnumber.gpkg, polygons_Name_Groupnumber.gpkg).
 
 ---
 
 ✍️ **Merci pour votre participation !**  
-Chaque contribution compte pour documenter et valoriser le patrimoine agraire 
+- Chaque contribution compte pour documenter et valoriser le patrimoine agraire 
+- N'oubliez pas de recuperer votre sandwich et votre ticket valable pour une boisson à la Kfet 
