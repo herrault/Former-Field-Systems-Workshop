@@ -112,7 +112,7 @@ Avant de soumettre votre travail :
 
 - Une fois la session terminée, exportez vos couches mises à jour.  
 - Partagez-les selon l’organisation définie (dépôt GitHub, cloud partagé, etc.).  
-- Utilisez un nom clair pour vos fichiers (exemple : `lines_maille_023.gpkg`, `polygons_maille_023.gpkg`).
+- Utilisez un nom clair pour vos fichiers (exemple : `lines_VotreNom.gpkg`, `polygons_VotreNom_023.gpkg`).
 
 ---
 
