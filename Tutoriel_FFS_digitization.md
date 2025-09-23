@@ -32,6 +32,8 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 
 ## 3. Typologie des formes agraires
 
+voir aussi le powerpoint pour les illustrations
+
 ### Ackerberg (lignes)
 - **Nature** : structures linéaires visibles dans le MNT.  
 - **Couche** : `lines_create.gpkg`.  
