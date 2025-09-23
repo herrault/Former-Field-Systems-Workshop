@@ -116,4 +116,4 @@ Avant de soumettre votre travail :
 ---
 
 ✍️ **Merci pour votre participation !**  
-Chaque contribution compte pour documenter et valoriser le patrimoine agraire à partir des données LiDAR 🚀
+Chaque contribution compte pour documenter et valoriser le patrimoine agraire 
