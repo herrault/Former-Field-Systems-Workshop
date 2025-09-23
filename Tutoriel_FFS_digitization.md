@@ -11,7 +11,7 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 - **Jeux de données vides** (GeoPackage) :
   - `lines_create.gpkg` → pour les *ackerberg* (formes linéaires).
   - `polygons_create.gpkg` → pour les *rideaux de culture* et *champs bombés* (formes surfaciques).
-- **Maillage 500 m x 500 m** → pour découper l’avancement du travail.  
+- **Maillage 1000 m x 1000 m** → pour découper l’avancement du travail.  
   Chaque maille possède un identifiant unique (champ `id_maille`).
 
 ⚠️ Tous les fichiers sont déjà dans le **bon système de coordonnées**.
