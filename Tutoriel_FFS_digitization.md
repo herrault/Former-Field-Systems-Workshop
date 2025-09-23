@@ -233,8 +233,8 @@ Each digitized object must have the following fields correctly filled in:
 ## 7. Quality control
 
 Before submitting your work:
-- Check that all your objects have a valid `id_mesh`.
-- Check that `type_shape` corresponds to the typology.
+- Check that all your objects have a valid `id_maille`.
+- Check that `type_forme` corresponds to the typology.
 - Delete test/incomplete entities.
 - Check that the objects do not extend beyond the selected mesh.
 ---
