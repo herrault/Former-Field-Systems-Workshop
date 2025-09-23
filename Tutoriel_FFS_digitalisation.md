@@ -7,6 +7,8 @@ L’objectif est de constituer une base de données homogène et exploitable à 
 
 ## 1. Données de travail
 
+à télécharger ici: https://seafile.unistra.fr/d/5156e196c7884fd4820b/
+
 - **MNT LiDAR** (4 zones disponibles).
 - **Jeux de données vides** (GeoPackage) :
   - `lines_create.gpkg` → pour les *ackerberg* (formes linéaires).
