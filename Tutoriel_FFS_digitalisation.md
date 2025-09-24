@@ -74,6 +74,7 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 | `type_forme` | Texte    | **ackerberg=1** / **rideau=2** / **champs bombés =3**/ **murger=4** |
 | `commentaire`| Texte libre | (optionnel) Observations particulières, incertitudes. |
 
+Dans le champ "type_forme" saisir uniquement 1,2,3 ou 4
 💡 **Astuce** : utiliser l’outil de capture dans QGIS pour remplir automatiquement `id_maille` en cliquant sur la maille correspondante.
 
 ---
