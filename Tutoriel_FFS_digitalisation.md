@@ -75,7 +75,6 @@ Chaque objet numérisé doit avoir les champs suivants correctement renseignés 
 | `commentaire`| Texte libre | (optionnel) Observations particulières, incertitudes. |
 
 Dans le champ "type_forme" saisir uniquement 1,2,3 ou 4
-💡 **Astuce** : utiliser l’outil de capture dans QGIS pour remplir automatiquement `id_maille` en cliquant sur la maille correspondante.
 
 ---
 
