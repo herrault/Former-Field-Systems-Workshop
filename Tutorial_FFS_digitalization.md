@@ -71,6 +71,8 @@ Each digitized object must have the following fields correctly filled in:
 | `type_forme` | Texte    | **Hedland=1** / **lynchet=2** / **ridge and furrow=3**/ **stone walls=4** |
 | `remark`| Free text | (optionnal) Obervations and uncertainties. |
 
+In "type_form" enter only the number 1, 2, 3 or 4
+
 💡 **Tip**: Use the capture tool in QGIS to automatically fill in `id_cell` by clicking on the corresponding cell.
 
 ---
